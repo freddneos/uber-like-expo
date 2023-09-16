@@ -22,7 +22,7 @@ const Home = () => {
             color: "white",
             fontFamily: "Avenir",
             fontWeight: "bold",
-            fontSize: "20px",
+            fontSize: 20,
           }}
         >
           Go to Map
